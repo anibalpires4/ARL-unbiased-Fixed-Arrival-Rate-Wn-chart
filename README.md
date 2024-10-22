@@ -1,2 +1,2 @@
-# ARL-unbiased-Fixed-Arrival-Rate-Wn-chart
-This R code implements ARL-unbiased Wn (Fixed Arrival Rate) control charts for monitoring Ek/M/1 and M/Ek/1 queueing systems. It provides functions to compute ARL with and without randomization, allowing control limit and randomization probabilities detection in queueing systems. The code also includes interactive plotting via Shiny
+# ARL-unbiased-Wn-chart
+This R code implements ARL-unbiased Wn (with fixed arrival rate, fixed service rate and proportional changes in arrival and service rates) control charts for monitoring Ek/M/1 and M/Ek/1 queueing systems. It provides functions to compute ARL with and without randomization, allowing control limit and randomization probabilities detection in queueing systems. The code also includes interactive plotting via Shiny which shows the behavior of the ARL profiles in real time.
